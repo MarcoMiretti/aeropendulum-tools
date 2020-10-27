@@ -1,5 +1,5 @@
 pkg load websockets
-
+addpath ("../lib")
 
 ## utility function definitions
 function ws = aero_poweron
